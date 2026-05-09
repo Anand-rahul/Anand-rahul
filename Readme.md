@@ -13,8 +13,8 @@
 ### 🛠️ Tech Stack
 
 - **Backend:** Java | Spring Boot | Microservices | REST APIs
-- **Databases:** PostgreSQL | MongoDB | Redis | MySql |
-- **DevOps:** Docker | Kubernetes | CI/CD | OAuth 2.0
+- **Databases:** PostgreSQL | MongoDB | Redis | MySql 
+- **DevOps:** Docker | Kubernetes | CI/CD 
 
 ---
 
