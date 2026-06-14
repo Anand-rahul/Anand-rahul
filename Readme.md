@@ -32,7 +32,6 @@ I care about correctness under concurrency, clean system boundaries, and shippin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
 
 **Data**
 
